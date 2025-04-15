@@ -31,4 +31,4 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 
 ### 👋 Connect with Me
 
-[GitHub](https://github.com/jmaemabasa) • [GitHub](https://github.com/jmaetogonon) • [LinkedIn](https://www.linkedin.com/in/jochelle-mae-mabasa-37aa2224a/)
+[GitHub/jmaemabasa](https://github.com/jmaemabasa) • [GitHub/jmaetogonon](https://github.com/jmaetogonon) • [LinkedIn](https://www.linkedin.com/in/jochelle-mae-mabasa-37aa2224a/)
